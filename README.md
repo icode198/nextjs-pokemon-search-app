@@ -67,8 +67,6 @@ Overall, this app provides a seamless and intuitive experience for users to brow
 
 ### Live Demo
 
-![Vercel](https://vercelbadge.vercel.app/api/StarSheriff2/nextjs-pokemon-search-app)
-
 - Deployed to Vercel: [Live Demo](https://nextjs-pokemon-search-app.vercel.app)
 
 ### About the API
@@ -105,12 +103,6 @@ To test, run
 
 - `yarn lint`
 
-## Author
-👤 **Arturo Alvarez**
-- Github: [@StarSheriff2](https://github.com/StarSheriff2)
-- Twitter: [@ArturoAlvarezV](https://twitter.com/ArturoAlvarezV)
-- Linkedin: [Arturo Alvarez](https://www.linkedin.com/in/arturoalvarezv/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -121,4 +113,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/StarSheriff2/nextjs-pokemon-search-app/blob/readme/LICENSE) licensed.
+This project is [MIT](https://github.com/icode198/nextjs-pokemon-search-app/blob/readme/LICENSE) licensed.
